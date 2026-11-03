@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. He graduated from Shanghai Jiao Tong University in June 2024. His research focuses on natural language processing and machine learning.
+Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. He graduated from Shanghai Jiao Tong University (SJTU) in June 2024. His research focuses on natural language processing and machine learning.
 
 ## Personal Details
 
 - **Name:** Junteng Liu
 - **Position:** First-year PhD candidate at the HKUST NLP Group
 - **Affiliation:** Hong Kong University of Science and Technology (HKUST)
+- **Research Group:** HKUST NLP Group, led by Professor Junxian He
 - **PhD Supervisor:** Professor Junxian He
 
 ## Academic Background
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
-- **B.Eng.**, Shanghai Jiao Tong University, 2020–2024 (graduated in June 2024)
+- **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020–2024 (graduated in June 2024)
 - **Award:** Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 ## Research Experience
@@ -39,9 +40,9 @@ Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong Univ
 
 ## Publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv) — First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv) — First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He.
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv) — First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code repository available on GitHub.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv) — First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code repository: Vision4Chart.
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. Code repository: Universal_Truthfulness_Hyperplane.
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — Co-author. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) — Co-author. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 - **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) — Co-author. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
