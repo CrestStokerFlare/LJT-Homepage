@@ -30,6 +30,12 @@ Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong Univ
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advised by Prof. Yu Cheng)
 - Previously advised by Professor Junxian He during undergraduate studies at Shanghai Jiao Tong University
 
+## Research Interests
+
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
+
 ## Skills
 
 - Natural Language Processing
