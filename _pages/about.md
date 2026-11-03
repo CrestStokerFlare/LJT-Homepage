@@ -14,7 +14,7 @@ Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong Univ
 - **Name:** Junteng Liu
 - **Position:** First-year PhD candidate at the HKUST NLP Group
 - **Affiliation:** Hong Kong University of Science and Technology (HKUST)
-- **Research Group:** HKUST NLP Group, led by Professor Junxian He
+- **Research Group:** HKUST NLP Group (focuses on natural language processing research), led by Professor Junxian He
 - **PhD Supervisor:** Professor Junxian He
 
 ## Academic Background
@@ -25,6 +25,7 @@ Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong Univ
 
 ## Research Experience
 
+- **Ph.D. Candidate**, HKUST NLP Group, Hong Kong University of Science and Technology, 2024–Present (supervised by Professor Junxian He)
 - **Research Intern**, MINIMAX, February 2025 – Present
 - **Research Intern**, Tencent WXG, June 2024 – September 2024 (advised by Zifei Shan)
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advised by Prof. Yu Cheng)
