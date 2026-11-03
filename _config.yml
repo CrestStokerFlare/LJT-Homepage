@@ -13,7 +13,7 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://CrestStokerFlare.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://CrestStokerFlare.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "CrestStokerFlare/LJT-Homepage"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
-  bio              : "First-year PhD candidate at HKUST NLP Group"
+  bio              : "First-year PhD candidate at HKUST NLP Group; research focuses on natural language processing and machine learning"
   location         : # "Hong Kong"
-  employer         : "HKUST NLP Group"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "jliugi@connect.ust.hk" 
 
@@ -151,9 +151,9 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Junteng Liu # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://github.com/Vicent0205
-    - https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-    - https://x.com/junteng88716710
+    - "https://github.com/Vicent0205"
+    - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+    - "https://x.com/junteng88716710"
 
 
 # Analytics
